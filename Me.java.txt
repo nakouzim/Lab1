@@ -1,0 +1,6 @@
+public class Me{
+	public static void main (String[] args){
+		System.out.println("Mohamed El Nakouzi");
+		System.out.println("Mechatronics Engineering");
+}
+}
